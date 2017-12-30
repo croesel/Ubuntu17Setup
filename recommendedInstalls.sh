@@ -22,5 +22,5 @@ sudo apt install udftools
 sudo apt install exfat-utils exfat-fuse
 sudo apt install audacity
 sudo apt install git
-git config --global user.name "roesel-c"
-git config --global user.email "roesel.c@husky.neu.edu"
+git config --global user.name "croesel"
+git config --global user.email "croesel@gmail.com"
