@@ -31,3 +31,6 @@ sudo apt install gdebi-core
 wget $studioPath$r$studioVersion
 sudo gdebi $studioVersion
 rm $studioVersion
+sudo apt install libssl-dev
+sudo apt install libssh2-1-dev
+sudo apt install texlive-latex-base

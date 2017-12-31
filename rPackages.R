@@ -1,7 +1,3 @@
-source("https://bioconductor.org/biocLite.R")
-biocLite("DESeq2")
-library("DESeq2")
-
 install.packages("UpSetR", repos='http://www.icesi.edu.co/CRAN/')
 install.packages("stringr", repos='http://www.icesi.edu.co/CRAN/')
 install.packages("tidyr", repos='http://www.icesi.edu.co/CRAN/')

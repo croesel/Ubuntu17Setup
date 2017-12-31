@@ -1,0 +1,245 @@
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/UpSetR_1.3.3.tar.gz'
+Content type 'application/x-gzip' length 4496104 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+* installing *source* package ‘UpSetR’ ...
+** package ‘UpSetR’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (UpSetR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/stringr_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 94095 bytes (91 KB)
+==================================================
+downloaded 91 KB
+
+* installing *source* package ‘stringr’ ...
+** package ‘stringr’ successfully unpacked and MD5 sums checked
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (stringr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/tidyr_0.7.2.tar.gz'
+Content type 'application/x-gzip' length 369542 bytes (360 KB)
+==================================================
+downloaded 360 KB
+
+* installing *source* package ‘tidyr’ ...
+** package ‘tidyr’ successfully unpacked and MD5 sums checked
+** libs
+installing to /home/chuck/R/x86_64-pc-linux-gnu-library/3.4/tidyr/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (tidyr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/kableExtra_0.6.1.tar.gz'
+Content type 'application/x-gzip' length 1072977 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+* installing *source* package ‘kableExtra’ ...
+** package ‘kableExtra’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (kableExtra)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/knitr_1.18.tar.gz'
+Content type 'application/x-gzip' length 649748 bytes (634 KB)
+==================================================
+downloaded 634 KB
+
+* installing *source* package ‘knitr’ ...
+** package ‘knitr’ successfully unpacked and MD5 sums checked
+** R
+** demo
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (knitr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/RColorBrewer_1.1-2.tar.gz'
+Content type 'application/x-gzip' length 11532 bytes (11 KB)
+==================================================
+downloaded 11 KB
+
+* installing *source* package ‘RColorBrewer’ ...
+** package ‘RColorBrewer’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (RColorBrewer)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/devtools_1.13.4.tar.gz'
+Content type 'application/x-gzip' length 486348 bytes (474 KB)
+==================================================
+downloaded 474 KB
+
+* installing *source* package ‘devtools’ ...
+** package ‘devtools’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (devtools)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/car_2.1-6.tar.gz'
+Content type 'application/x-gzip' length 627349 bytes (612 KB)
+==================================================
+downloaded 612 KB
+
+* installing *source* package ‘car’ ...
+** package ‘car’ successfully unpacked and MD5 sums checked
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (car)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/knitr_1.18.tar.gz'
+Content type 'application/x-gzip' length 649748 bytes (634 KB)
+==================================================
+downloaded 634 KB
+
+* installing *source* package ‘knitr’ ...
+** package ‘knitr’ successfully unpacked and MD5 sums checked
+** R
+** demo
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (knitr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/VennDiagram_1.6.18.tar.gz'
+Content type 'application/x-gzip' length 1920035 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+* installing *source* package ‘VennDiagram’ ...
+** package ‘VennDiagram’ successfully unpacked and MD5 sums checked
+** R
+** data
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (VennDiagram)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'http://www.icesi.edu.co/CRAN/src/contrib/rmarkdown_1.8.tar.gz'
+Content type 'application/x-gzip' length 2093181 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+* installing *source* package ‘rmarkdown’ ...
+** package ‘rmarkdown’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+* DONE (rmarkdown)
+
+The downloaded source packages are in
+	‘/tmp/RtmpabWG7Z/downloaded_packages’
+Installing package into ‘/home/chuck/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+Warning message:
+package ‘pdflatex’ is not available (for R version 3.4.3) 
