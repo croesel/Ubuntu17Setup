@@ -24,3 +24,10 @@ sudo apt install audacity
 sudo apt install git
 git config --global user.name "croesel"
 git config --global user.email "croesel@gmail.com"
+sudo Rscript installDESeq2.R
+studioVersion='rstudio-xenial-1.1.383-amd64.deb'
+studioPath='https://download1.rstudio.org/'
+sudo apt install gdebi-core
+wget $studioPath$r$studioVersion
+sudo gdebi $studioVersion
+rm $studioVersion
