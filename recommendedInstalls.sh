@@ -34,3 +34,5 @@ rm $studioVersion
 sudo apt install libssl-dev
 sudo apt install libssh2-1-dev
 sudo apt install texlive-latex-base
+sudo apt install texlive-fonts-recommended
+sudo apt install texlive-latex-extra

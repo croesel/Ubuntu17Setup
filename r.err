@@ -1,0 +1,4 @@
+Error in contrib.url(repos, type) : 
+  trying to use CRAN without setting a mirror
+Calls: update.packages -> available.packages -> contrib.url
+Execution halted
